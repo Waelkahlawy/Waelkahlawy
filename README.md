@@ -32,21 +32,31 @@ ESP32 • FreeRTOS • Edge AI • Clean Architecture • Real-Time Systems • 
 
 ## 🛠 Tech Stack
 
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=C,C++,ESP-IDF,Grafana,Telegraf,InfluxDB,Mosquitto,linux,git,docker" />
+  <img src="https://skillicons.dev/icons?i=Linux,GIT,Docker" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure" />
+  <img src="https://skillicons.dev/icons?i=AWS,Azure" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ESP32-Embedded-blue?style=flat"/>
-  <img src="https://img.shields.io/badge/FreeRTOS-RTOS-green?style=flat"/>
+  <img src="https://skillicons.dev/icons?i=C,C++,Python" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ESP32-Embedded IoT-blue?style=flat"/>
+  <img src="https://img.shields.io/badge/FreeRTOS-RTOS-brightgreen?style=flat"/>
   <img src="https://img.shields.io/badge/MQTT-TLS-orange?style=flat"/>
   <img src="https://img.shields.io/badge/TinyML-Edge_AI-purple?style=flat"/>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Grafana-Monitoring-orange"/>
+  <img src="https://img.shields.io/badge/InfluxDB-Time--Series-blue"/>
+  <img src="https://img.shields.io/badge/Node--RED-IoT-red"/>
+</p>
 
 ---
 

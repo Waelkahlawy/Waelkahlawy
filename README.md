@@ -1,70 +1,59 @@
-## Hi there 👋
-
 # Hi, I'm Wael Kahlawy 👋
 
 **Embedded Software & AIoT Engineer**
 ESP32 • FreeRTOS • Edge AI • Cloud IoT
 
-Building **secure, intelligent, and scalable IoT systems** from edge devices to cloud platforms.
-
----
-
-## 📬 Contact Me
-
-* 📍 6th of October City, Giza, Egypt
-* 📧 [waelkahlawy2@gmail.com](mailto:waelkahlawy2@gmail.com)
-* 💼 LinkedIn: linkedin
-* 🧑‍💻 GitHub: GitHub
+![GitHub followers](https://img.shields.io/github/followers/WaelKahlawy?style=social)
+![GitHub stars](https://img.shields.io/github/stars/WaelKahlawy?style=social)
 
 ---
 
 ## 👨‍💻 About Me
 
-Junior **AIoT Engineer** with strong hands-on experience in **ESP32-based IoT systems**, **FreeRTOS**, and **secure IoT communication (MQTT over TLS)**. I work on real-time embedded systems, multi-sensor integration, and **edge AI using TensorFlow Lite Micro**.
+Junior **AIoT Engineer** with hands-on experience in **ESP32-based embedded systems**, **FreeRTOS**, and **secure IoT communication (MQTT over TLS)**. I build real-time, multi-task embedded systems and deploy **end-to-end IoT solutions** from edge devices to cloud platforms.
 
-I have practical experience deploying **end-to-end IoT solutions** using **AWS IoT Core, Azure IoT Hub, and ThingsBoard**, with real-time monitoring via **Grafana** and containerized services using **Docker**. Passionate about building reliable, production-oriented systems under real hardware constraints.
+Interested in **Edge AI / TinyML**, predictive maintenance, vehicle analytics, and production-oriented system design.
 
 ---
 
 ## 🛠 Tech Stack
 
-**Programming Languages**
-C / C++ • Embedded C • Python
-
-**Embedded & Firmware**
-ESP32 • ESP-IDF • FreeRTOS • Interrupts • GPIO / ADC / DAC • Debugging
-
-**IoT Hardware**
-MPU6050 • DHT11 • Ultrasonic • LDR • Multi-sensor Fusion • Edge Computing
-
-**Communication Protocols**
-UART • SPI • I2C • MQTT (TLS/SSL) • HTTP • WiFi • Bluetooth
-
-**Edge AI / TinyML**
-TensorFlow Lite Micro • Model Quantization • On-device Inference
-
-**Cloud & IoT Platforms**
-AWS IoT Core • Azure IoT Hub • ThingsBoard • Node-RED • Adafruit IO
-
-**Monitoring & DevOps**
-Grafana • InfluxDB • Mosquitto • Telegraf • Prometheus • Docker (Basics)
+**Languages:** C / C++ • Embedded C • Python
+**Embedded:** ESP32 • ESP-IDF • FreeRTOS • GPIO / ADC / DAC • Interrupts
+**Protocols:** UART • SPI • I2C • MQTT (TLS) • HTTP • WiFi • Bluetooth
+**Edge AI:** TensorFlow Lite Micro • Model Quantization
+**Cloud IoT:** AWS IoT Core • Azure IoT Hub • ThingsBoard
+**Monitoring:** Grafana • InfluxDB • Node-RED
+**DevOps:** Docker (Basics)
 
 ---
 
-## 💼 Experience
+## 📊 GitHub Stats
 
-### Artificial Intelligence of Things Track — NTI
+![Wael's GitHub stats](https://github-readme-stats.vercel.app/api?username=WaelKahlawy\&show_icons=true\&theme=transparent)
 
-**National Telecommunication Institute | 10/2025 – 01/2026**
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaelKahlawy\&layout=compact\&theme=transparent)
 
-* Developed ESP32-based embedded systems with real-time data acquisition
-* Designed multitasking systems using **FreeRTOS** with task prioritization and power optimization
-* Implemented secure IoT communication using **MQTT over TLS/SSL**
-* Built **TinyML** applications for anomaly detection and edge inference
-* Performed data analytics and ML using **Python, Pandas, NumPy, Scikit-learn**
-* Deployed IoT pipelines using **AWS IoT Core, Azure IoT Hub, ThingsBoard**
-* Built real-time dashboards with **Grafana & InfluxDB**
-* Worked with **Dockerized microservices** for IoT deployments
+![GitHub Streak](https://streak-stats.demolab.com?user=WaelKahlawy\&theme=transparent)
+
 ---
 
-✨ *Built for real hardware. Optimized for real-world constraints.* ✨
+## 📌 Pinned Focus Areas
+
+* Embedded Systems & FreeRTOS
+* Secure IoT Communication
+* Edge AI / TinyML
+* Cloud-connected IoT Platforms
+
+---
+
+
+📬 **Contact Me**
+
+* 📧 [waelkahlawy2@gmail.com](mailto:waelkahlawy2@gmail.com)
+* 💼 LinkedIn: linkedin
+* 🧑‍💻 GitHub: [https://github.com/WaelKahlawy](https://github.com/WaelKahlawy)
+
+---
+
+✨ *Dynamic by data. Strong by design. Built for real hardware.* ✨

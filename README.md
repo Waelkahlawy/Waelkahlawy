@@ -1,54 +1,81 @@
-<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="Embedded Developer" />
+<h1 align="center">
+  Hi, I'm Wael Kahlawy 👋
+</h1>
+
+<h3 align="center">
+Embedded Software & AIoT Engineer 
+</h3>
+
+<p align="center">
+ESP32 • FreeRTOS • Edge AI • Clean Architecture • Real-Time Systems • Real Hardware
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/wael-kahlawy-675579195/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/WaelKahlawy">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+- 🎯 Junior **AIoT / Embedded Engineer**
+- 🧠 Strong in **ESP32, FreeRTOS, multitasking & real-time systems**
+- 🔐 Secure IoT communication using **MQTT over TLS**
+- 🤖 Edge AI & TinyML with **TensorFlow Lite Micro**
+- 🚀 Always building **production-oriented embedded systems**
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=C,C++,ESP-IDF,Grafana,Telegraf,InfluxDB,Mosquitto,linux,git,docker" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ESP32-Embedded-blue?style=flat"/>
+  <img src="https://img.shields.io/badge/FreeRTOS-RTOS-green?style=flat"/>
+  <img src="https://img.shields.io/badge/MQTT-TLS-orange?style=flat"/>
+  <img src="https://img.shields.io/badge/TinyML-Edge_AI-purple?style=flat"/>
+</p>
 
 
-# Hi, I'm Wael Kahlawy 👋
+---
 
-Embedded Software & AIoT Engineer
+## 💼 Experience
+**AIoT Track — National Telecommunication Institute (NTI)**  
+*Oct 2025 – Jan 2026*
 
-Building secure, intelligent IoT systems • Edge to Cloud • Real Projects
+- Embedded systems & sensor integration
+- Secure IoT communication
+- Edge AI pipelines
+- Cloud IoT (AWS, Azure, ThingsBoard)
+- Monitoring with Grafana & InfluxDB
 
-<br/><br/><br/>
+---
 
-### Contact Me
+## 📊 GitHub Stats
 
-<a href="mailto:waelkahlawy2@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WaelKahlawy&show_icons=true&theme=transparent"/>
+</p>
 
-<a href="https://www.linkedin.com/in/[wael-kahlawy-675579195/]">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=WaelKahlawy&theme=transparent"/>
+</p>
 
-<a href="https://github.com/[Waelkahlawy]">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaelKahlawy&layout=compact&theme=transparent"/>
+</p>
 
+---
 
-<br/><br/>
-
-## About Me
-
-- 🚀 Junior AIoT Engineer with hands-on ESP32 & FreeRTOS experience
-- 🧠 Strong in C/C++, RTOS, MQTT/TLS, and sensor integration
-- 🤖 Skilled in TinyML (TensorFlow Lite Micro) and edge AI deployment
-- ☁️ Experienced with AWS IoT Core, Azure IoT Hub, ThingsBoard & Grafana
-- 📊 Passionate about real-time data, ML analytics (Python), and scalable systems
-
-<br/>
-
-## Tech Stack
-
-<img src="https://skillicons.dev/icons?i=C,C++,ESP-IDF,ESP32,MQTT,Mosquitto,Telegraf,InfluxDB,Grafana,GIT,docker,AWS,Azure,tensorflow,vscode,linux&perline=6&theme=dark" />
-
-
-<br/><br/>
-
-## Experience & Projects
-
-- **AIoT Track - National Telecommunication Institute (NTI)** (Oct 2025 – Jan 2026)  
-  Comprehensive training in embedded AI, IoT communication, TinyML, and cloud platforms.
-  
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=[Waelkahlawy]&show_icons=true&theme=dark" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Waelkahlawy]&layout=compact&theme=dark" alt="Top Languages" />
+✨ *Built for real hardware. Designed for real-world constraints.* ✨

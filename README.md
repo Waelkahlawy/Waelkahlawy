@@ -34,15 +34,15 @@ ESP32 • FreeRTOS • Edge AI • Clean Architecture • Real-Time Systems • 
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=Linux,GIT,Docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=Linux,GIT,Docker&theme=greeb" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=AWS,Azure&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=AWS,Azure&theme=blue" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=C,C++,Python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=C,C++,Python&theme=white" />
 </p>
 
 <p align="center">
